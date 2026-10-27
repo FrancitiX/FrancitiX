@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# FrancitiX
 
 ```sh
 pnpm create astro@latest -- --template basics
